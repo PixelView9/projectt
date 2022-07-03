@@ -1,1 +1,1 @@
-console.log('dfsfs');
+document.body.innerHTML = <h1>'Hello form JavaScript'</h1>;
